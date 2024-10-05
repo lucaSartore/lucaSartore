@@ -15,6 +15,7 @@ I'm a software engineer at the University of Trento. Below are some of my projec
 - 🚂 [**Rusty Railways**](https://github.com/RustyRailways/RustyRailways): An embedded project that automatically controls and schedules LEGO trains.
 - 🧀 [**Cheese Lang**](https://github.com/lucaSartore/cheese-lang): A Turing-complete language I wrote in Go.
 - 🧠 [**Mind Merge**](https://github.com/lucaSartore/MindMerge): A project management software with novel AI-based features.
+- 📋 [**Personal Website**](https://github.com/lucaSartore/lucaSartore.github.io) The first (kinda ugly) website i made
 - 💣 [**Mindsweeper**](https://github.com/lucaSartore/minesweeper_C_Sharp): An implementation of the classic Minesweeper game.
 
 ## 🏆 Awards and Education:
