@@ -1,7 +1,3 @@
-Here's the updated version with the new **Awards and Education** section:
-
----
-
 # Hi, I'm Luca Sartore! 👋
 
 I'm a software engineer at the University of Trento. Below are some of my projects, categorized for easy browsing.
@@ -39,7 +35,3 @@ I've also worked in the following fields (though I can't share the code due to c
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lucaSartore&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&theme=github_dark" />
 </p>
-
----
-
-I added the new section. Let me know if this works for you!
