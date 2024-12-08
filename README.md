@@ -5,11 +5,13 @@ I'm a software engineer at the University of Trento. Below are some of my projec
 ## 🚀 Projects I've Contributed To:
 - 🤖 [**Nvim DAP UI**](https://github.com/rcarriga/nvim-dap-ui): A UI for debugging inside Neovim.
 - 🖥️ [**Webix Framework**](https://github.com/webix-hub/components): A JavaScript framework for building user interfaces.
+- 📦 [**Lazygit Neovim Integration**](https://github.com/kdheepak/lazygit.nvim): A Neovim plugin for a seamless Lazygit experience.  
 
 ## 🛠️ Useful Repositories I've Created:
 - 🤖 [**Rescue Line Simulation**](https://github.com/lucaSartore/Robocup-Rescue-Line-simulation): A simulation of the Robocup Rescue Line competition to help teams develop software faster.
 - 🛑 [**Nvim DAP Exception Breakpoints**](https://github.com/lucaSartore/nvim-dap-exception-breakpoints): A Neovim plugin to easily toggle conditions for exception breakpoints when debugging.
 
+---
 ## 🎨 Cool (but Sort of Useless) Stuff I Made:
 - 🧩 [**Puzzle Solver**](https://github.com/lucaSartore/PuzzleSolver): An algorithm that can solve small-sized jigsaw puzzles.
 - 🚂 [**Rusty Railways**](https://github.com/RustyRailways/RustyRailways): An embedded project that automatically controls and schedules LEGO trains.
