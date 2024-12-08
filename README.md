@@ -11,7 +11,6 @@ I'm a software engineer at the University of Trento. Below are some of my projec
 - 🤖 [**Rescue Line Simulation**](https://github.com/lucaSartore/Robocup-Rescue-Line-simulation): A simulation of the Robocup Rescue Line competition to help teams develop software faster.
 - 🛑 [**Nvim DAP Exception Breakpoints**](https://github.com/lucaSartore/nvim-dap-exception-breakpoints): A Neovim plugin to easily toggle conditions for exception breakpoints when debugging.
 
----
 ## 🎨 Cool (but Sort of Useless) Stuff I Made:
 - 🧩 [**Puzzle Solver**](https://github.com/lucaSartore/PuzzleSolver): An algorithm that can solve small-sized jigsaw puzzles.
 - 🚂 [**Rusty Railways**](https://github.com/RustyRailways/RustyRailways): An embedded project that automatically controls and schedules LEGO trains.
