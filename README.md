@@ -31,6 +31,7 @@ I've also worked in the following fields (though I can't share the code due to c
 - Full-stack development
 - Embedded sensor development
 - Video animation creation using the [Manim](https://github.com/manimCommunity/manim) framework
+- Scheduling algorithms using CSPs and SAT solvers
 
 ---
 
