@@ -37,4 +37,6 @@ I've also worked in the following fields (though I can't share the code due to c
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lucaSartore&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&theme=github_dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaSartore&langs_count=100&layout=compact&exclude_repo=MindMerge-BackEnd&theme=github_dark" />
 </p>
