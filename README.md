@@ -3,6 +3,7 @@
 I'm a software engineer at the University of Trento. Below are some of my projects, categorized for easy browsing.
 
 ## 🚀 Projects I've Contributed To:
+- 📦 [**nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Default configuration for the LSP for neovim
 - 🤖 [**Nvim DAP UI**](https://github.com/rcarriga/nvim-dap-ui): A UI for debugging inside Neovim.
 - 🖥️ [**Webix Framework**](https://github.com/webix-hub/components): A JavaScript framework for building user interfaces.
 - 📦 [**Lazygit Neovim Integration**](https://github.com/kdheepak/lazygit.nvim): A Neovim plugin for a seamless Lazygit experience.  
