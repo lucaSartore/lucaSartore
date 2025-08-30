@@ -6,7 +6,8 @@ I'm a software engineer at the University of Trento. Below are some of my projec
 - 📦 [**nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Default configuration for the LSP for neovim
 - 🤖 [**Nvim DAP UI**](https://github.com/rcarriga/nvim-dap-ui): A UI for debugging inside Neovim.
 - 🖥️ [**Webix Framework**](https://github.com/webix-hub/components): A JavaScript framework for building user interfaces.
-- 📦 [**Lazygit Neovim Integration**](https://github.com/kdheepak/lazygit.nvim): A Neovim plugin for a seamless Lazygit experience.  
+- 🌐 [**Lazygit Neovim Integration**](https://github.com/kdheepak/lazygit.nvim): A Neovim plugin for a seamless Lazygit experience.  
+- 🐍 [**venv-selector.nvim**](https://github.com/linux-cultist/venv-selector.nvim): A neovim plugin that let you choose which python environment to activate.  
 
 ## 🛠️ Useful Repositories I've Created:
 - 🤖 [**Rescue Line Simulation**](https://github.com/lucaSartore/Robocup-Rescue-Line-simulation): A simulation of the Robocup Rescue Line competition to help teams develop software faster.
